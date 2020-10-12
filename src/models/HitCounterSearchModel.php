@@ -4,9 +4,6 @@
  */
 namespace coderius\hitCounter\models;
 
-use Yii;
-use yii\base\Model;
-use coderius\hitCounter\Module;
 use yii\db\ActiveRecord;
 
 class HitCounterSearchModel extends ActiveRecord
